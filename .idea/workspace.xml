@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc8fcfbd-0c08-496c-9756-871490ef4a15" name="Changes" comment="add .idea to .gitignore">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="bc8fcfbd-0c08-496c-9756-871490ef4a15" name="Changes" comment="add *.idea to .gitignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,12 +59,56 @@
       <option name="project" value="LOCAL" />
       <updated>1679228939813</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add .idea to .gitignore">
+      <created>1679230091646</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679230091646</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial commit">
+      <created>1679230127435</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679230127435</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add *.idea to .gitignore">
+      <created>1679230254614</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679230254614</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add *.idea to .gitignore">
+      <created>1679230276411</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679230276411</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add *.idea to .gitignore">
+      <created>1679230418086</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679230418086</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add *.idea to .gitignore">
+      <created>1679230470684</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679230470684</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add .idea to .gitignore" />
     <MESSAGE value="add /out to .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="add /out to .gitignore" />
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="add *.idea to .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add *.idea to .gitignore" />
   </component>
 </project>
